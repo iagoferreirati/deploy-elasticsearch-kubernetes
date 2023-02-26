@@ -12,7 +12,6 @@
 ```
 - kubectl apply -f elasticsearch_statefulset.yaml
 ```
-
 ## Step 4 - Creating the Kibana Deployment and Service
 ```
 - kubectl apply -f kibana.yaml
